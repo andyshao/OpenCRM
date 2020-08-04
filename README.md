@@ -1,73 +1,62 @@
-<a href="https://suitecrm.com">
-  <img width="180px" height="41px" src="https://suitecrm.com/wp-content/uploads/2017/12/logo.png" align="right" />
+<a href="https://nadlan.cc">
+  <img width="180px" height="41px" src="https://nadlan.cc/wp-content/uploads/2017/12/logo.png" align="right" />
 </a>
 
-# SuiteCRM 7.11.15
+# SOpenCRM 7.11.15
 
-[![Build Status](https://travis-ci.org/salesagility/SuiteCRM.svg?branch=hotfix)](https://travis-ci.org/salesagility/SuiteCRM)
-[![codecov](https://codecov.io/gh/salesagility/SuiteCRM/branch/hotfix/graph/badge.svg)](https://codecov.io/gh/salesagility/SuiteCRM/branch/hotfix)
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/suitecrm/Lobby)
-[![LICENSE](https://img.shields.io/github/license/suitecrm/suitecrm.svg)](https://github.com/salesagility/suitecrm/blob/hotfix/LICENSE.txt)
-[![GitHub contributors](https://img.shields.io/github/contributors/salesagility/suitecrm)](https://github.com/salesagility/SuiteCRM/graphs/contributors)
-[![Twitter](https://img.shields.io/twitter/follow/suitecrm.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=suitecrm)
-
-[Website](https://suitecrm.com) | 
-[Demo](https://suitecrm.com/demo/) |
+\\
+[Website](https://nadlan.cc/) | 
+[Demo](https://nadlan.cc/crm/) |
 [Maintainers](https://salesagility.com) |
-[Contributors](https://github.com/salesagility/SuiteCRM/graphs/contributors) |
-[Community & Forum](https://suitecrm.com/suitecrm/forum) |
-[Partners](https://suitecrm.com/about/about-us/partners/) |
-[Extensions Directory](https://store.suitecrm.com/) |
+[Contributors](https://www.facebook.com/pablo.rotem) |
+[Community & Forum](https://nadlan.cc/forum) |
+[Partners](https://nadlan.cc/about-us/) |
+[Extensions Directory](https://nadlan.cc/) |
 [Translations](https://crowdin.com/project/suitecrmtranslations) | [Code of Conduct](https://docs.suitecrm.com/community/code-of-conduct/)
 
-[SuiteCRM](https://suitecrm.com) is the award-winning open-source, enterprise-ready Customer Relationship Management (CRM) software application.
+[OpenCRM](https://nadlan.cc/) is the award-winning open-source, enterprise-ready Customer Relationship Management (CRM) software application.
 
 Our vision is to be the most adopted open source enterprise CRM in the world, giving users full control of their data and freedom to own and customise their business solution.
 
-Try out a free fully working [SuiteCRM demo available here](https://suitecrm.com/demo/)
+Try out a free fully working [OpenCRM demo available here](https://nadlan.cc/crm/)
 
-### Contribute [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/salesagility/SuiteCRM/issues)
+### Contribute [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/deltatoken/OpenCRMs/issues)
 
 There are lots of ways to [contribute](https://docs.suitecrm.com/community/) to SuiteCRM
 
-* [Submit bug](https://docs.suitecrm.com/community/raising-issues/) reports and help us [verify fixes](https://docs.suitecrm.com/community/contributing-code/test-pull-requests/) as they are pushed up
-* Review and collaborate [source code](https://github.com/salesagility/SuiteCRM/pulls) changes
-* Join and engage with other SuiteCRM users and developers on the [forums](https://suitecrm.com/suitecrm/forum)
-* [Contribute bug fixes](https://docs.suitecrm.com/community/contributing-code/bugs/)
-* Help [translate](https://docs.suitecrm.com/community/contributing-to-docs/contributing-to-translation/) language packs
-* [Write and improve](https://docs.suitecrm.com/community/contributing-to-docs/) SuiteCRM documentation
-* [Signing CLA](https://www.clahub.com/agreements/salesagility/SuiteCRM) - Only needs to be done once for all PRs and contributions.
+* 
+* Review and collaborate [source code](https://github.com/deltatoken/OpenCRMs/pulls) changes
+* Join and engage with other SuiteCRM users and developers on the [forums](https://nadlan.cc/forum)
 
 
 ### Code Contributors
 
 This project exists thanks to all the people who [contribute](https://github.com/salesagility/SuiteCRM/graphs/contributors) and more.
-<a href="https://github.com/salesagility/SuiteCRM/graphs/contributors"><img src="https://opencollective.com/SuiteCRM/contributors.svg?avatarHeight=36&width=890&button=false" /></a>
+I felt it needs to be forked into a new edition with higher open source - since at time of fork only forked projects can use a custom logo or custom hyperlinks.
+So as a contribute to real open source - i forked it - this is the forked editition - without any type of limitation - i.e you can use any logo, remove or change the trademark or the © Supercharged by SuiteCRM © Powered By SugarCRM (they are removed by default in the dev branch - which is fully functional)
+<a href="https://github.com/deltatoken/OpenCRMs/graphs/contributors">
 
 You wanna buy the **core team** a coffee :coffee: or beer :beer:?
-Then consider a small [donation](https://opencollective.com/SuiteCRM/contribute) to help fuel our activities :heart:
+Then consider a small [donation]<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="G77T8XU42PRJ8" />
+<input type="image" src="https://www.paypalobjects.com/en_US/IL/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_IL/i/scr/pixel.gif" width="1" height="1" />
+</form>
+ to help fuel our activities :heart:
 
-### Security ###
 
-We take security seriously here at SuiteCRM so if you have discovered a security risk report it by
-emailing [security@suitecrm.com](mailto:security@suitecrm.com). This will be delivered to the product team who handle security issues.
-Please don't disclose security bugs publicly until they have been handled by the security team.
-
-Your email will be acknowledged within 24 hours during the business week (Mon - Fri), and you’ll receive a more
-detailed response to your email within 72 hours during the business week (Mon - Fri) indicating the next steps in
-handling your report.
 
 ### Roadmap ### 
 
-View the [Roadmap](https://suitecrm.com/roadmap/) and [LTS](https://suitecrm.com/lts/) for details on our planned features and future direction.
-
+View the [Roadmap](https://nadlan.cc/roadmap/) 
 ### Support ###
 
-SuiteCRM is an open-source project. If you require help with support then please use our [support forum](https://suitecrm.com/suitecrm/forum/). By using the forums the knowledge is shared with everyone in the community. Our developer and community team members answer questions on the forum daily but it also allows the other members of the community to contribute. If you would like customisations to specifically fit your SuiteCRM needs then please visit the [website](https://suitecrm.com/).
+OpenCRM is a truely open-source project. If you require help with support then please use our [support forum](https://nadlan.cc/forum/). By using the forums the knowledge is shared with everyone in the community. Our developer and community team members answer questions on the forum daily but it also allows the other members of the community to contribute. If you would like customisations to specifically fit your OpenCRM needs then please visit the [website](https://nadlan.cc/).
 
-### License [![AGPLv3](https://img.shields.io/github/license/suitecrm/suitecrm.svg)](./LICENSE.txt)
+### License [openbsd]()](./LICENSE.txt)
 
-SuiteCRM is published under the AGPLv3 license.
+OpenCRM is published under the openbsd license.
 
 
 
