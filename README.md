@@ -4,14 +4,14 @@
 
 # OpenCRM 1.0.1
 
-\\
+
 [Website](https://nadlan.cc/) | 
 [Demo](https://nadlan.cc/crm/) |
 [Maintainers](https://salesagility.com) |
 [Contributors](https://www.facebook.com/pablo.rotem) |
 [Community & Forum](https://nadlan.cc/forum) |
 [Partners](https://nadlan.cc/about-us/) |
-[Extensions Directory](https://nadlan.cc/) |
+
 
 [OpenCRM](https://nadlan.cc/) is the award-winning open-source, enterprise-ready Customer Relationship Management (CRM) software application.
 
