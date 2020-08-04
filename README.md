@@ -2,7 +2,7 @@
   <img width="180px" height="41px" src="https://nadlan.cc/wp-content/uploads/2017/12/logo.png" align="right" />
 </a>
 
-# SOpenCRM 7.11.15
+# OpenCRM 1.0.1
 
 \\
 [Website](https://nadlan.cc/) | 
@@ -12,7 +12,6 @@
 [Community & Forum](https://nadlan.cc/forum) |
 [Partners](https://nadlan.cc/about-us/) |
 [Extensions Directory](https://nadlan.cc/) |
-[Translations](https://crowdin.com/project/suitecrmtranslations) | [Code of Conduct](https://docs.suitecrm.com/community/code-of-conduct/)
 
 [OpenCRM](https://nadlan.cc/) is the award-winning open-source, enterprise-ready Customer Relationship Management (CRM) software application.
 
@@ -22,16 +21,15 @@ Try out a free fully working [OpenCRM demo available here](https://nadlan.cc/crm
 
 ### Contribute [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/deltatoken/OpenCRMs/issues)
 
-There are lots of ways to [contribute](https://docs.suitecrm.com/community/) to SuiteCRM
 
 * 
 * Review and collaborate [source code](https://github.com/deltatoken/OpenCRMs/pulls) changes
-* Join and engage with other SuiteCRM users and developers on the [forums](https://nadlan.cc/forum)
+* Join and engage with other OpenCRM users and developers on the [forums](https://nadlan.cc/forum)
 
 
 ### Code Contributors
 
-This project exists thanks to all the people who [contribute](https://github.com/salesagility/SuiteCRM/graphs/contributors) and more.
+This project exists thanks to all the people who [contribute](https://github.com/deltatoken/OpenCRMs/graphs/contributors) and more.
 I felt it needs to be forked into a new edition with higher open source - since at time of fork only forked projects can use a custom logo or custom hyperlinks.
 So as a contribute to real open source - i forked it - this is the forked editition - without any type of limitation - i.e you can use any logo, remove or change the trademark or the © Supercharged by SuiteCRM © Powered By SugarCRM (they are removed by default in the dev branch - which is fully functional)
 <a href="https://github.com/deltatoken/OpenCRMs/graphs/contributors">
